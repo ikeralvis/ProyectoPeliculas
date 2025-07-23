@@ -1,0 +1,3 @@
+# movie-review-app-backend/.gitignore
+.env
+node_modules/
